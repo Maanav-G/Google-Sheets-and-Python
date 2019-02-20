@@ -1,4 +1,4 @@
-# Google-Sheets-and-Python
+# Google Sheets and Python
 
 
 Used python to build a connection and access information in a fake google sheet. 
